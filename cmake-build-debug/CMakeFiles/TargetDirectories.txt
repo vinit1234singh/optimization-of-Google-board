@@ -1,0 +1,7 @@
+/home/chintu/Project/Ngram/cmake-build-debug/CMakeFiles/N-Grams.dir
+/home/chintu/Project/Ngram/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chintu/Project/Ngram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chintu/Project/Ngram/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/chintu/Project/Ngram/cmake-build-debug/CMakeFiles/install.dir
+/home/chintu/Project/Ngram/cmake-build-debug/CMakeFiles/install/local.dir
+/home/chintu/Project/Ngram/cmake-build-debug/CMakeFiles/install/strip.dir
